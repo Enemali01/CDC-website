@@ -1,0 +1,78 @@
+ body{
+    background-color: #202a3c;
+}
+#comm{
+    font-size: 40px;
+    color: white;
+    float: left;
+    padding-left: 50px;
+    padding-top: 150px;
+    margin-bottom: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#htpic{
+    padding-left: 700px;
+
+    padding-top: 50px;
+}
+#you{
+    background-color: white;
+}
+#dmtxt{
+    color: black;
+    text-align: center;
+}
+#ttt{
+    color: black;
+    padding-left: 20px;
+}
+#u{
+    text-align: center;
+    font-size: 30px;
+    color:  #202a3c;
+}
+#hng{
+    opacity: 5px;
+}
+.black{
+    background-color: black;
+    opacity: 0.5;
+    z-index: 1;
+    position: absolute;
+    top: 82px;
+    width: 1365px;
+    height: 500px;
+margin-top: 630px; 
+padding-right: 100px;  
+}
+.btn{
+   margin-left: 100px;
+   margin-top: 800px;   
+}
+.do{
+    z-index: 2;
+    position: absolute;
+    top: 82px;
+    left: 121px;
+    width: 968px;
+    height: 350px;
+    padding: 166px 200px 50px;
+}
+.fin{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    
+    
+    height: 200px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: black;
+    opacity: 0.5;
+    z-index: 1;
+    position: absolute;
+    top: 82px;
+    width: 1400px;
+   
+
+padding-right: 100px;
+}

@@ -45,7 +45,7 @@
 margin-top: 630px; 
 padding-right: 100px;  
 }
-.btn{
+.btn-info{
    margin-left: 100px;
    margin-top: 800px;   
 }
@@ -75,4 +75,64 @@ padding-right: 100px;
    
 
 padding-right: 100px;
+}
+.james{
+    height: 20px;
+    background-color: #202A3C;
+}
+.navbar{
+    text-decoration-color: #ffffff;
+    background-color: #202A3C;
+}
+
+a.btn{
+    padding-top: 0px;
+    padding-bottom: 0px; 
+}
+a.bee{
+    margin-top: 0px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+a>span.fa{
+    color: #ffffff;
+}
+a>span.fa-facebook-official:hover{
+    
+    font-size: 20px;
+}
+a>span.fa-twitter:hover{
+    color: #30C2FF;
+    font-size: 20px;
+}
+a>span.fa-slack:hover{
+    color: #A61703;
+    font-size: 20px;
+}
+.txt{
+    color: #ffffff
+}
+footer{
+    background-color: #202A3C;
+    
+    }
+footer>img{
+    padding-top: 10px;
+    margin: auto;
+    display: block;
+}
+.breather{
+    height: 90px;
+}
+.fpara{
+    text-align: center;
+}
+a.fpara{
+    color:#30C2FF;
+}
+a.fpara:hover{
+    text-decoration: none;
+    font-weight: bold;
+    color: #ffffff;
+
 }
